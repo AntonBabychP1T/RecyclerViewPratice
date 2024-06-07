@@ -1,0 +1,30 @@
+<resources>
+    <string name="app_name">ListView</string>
+
+    <string-array name="countries">
+        <item>England</item>
+        <item>Ukraine</item>
+        <item>Poland</item>
+        <item>Germany</item>
+        <item>Japan</item>
+        <item>Spanish</item>
+        <item>Chez</item>
+        <item>Moldova</item>
+        <item>Greek</item>
+        <item>Turkey</item>
+        <item>USA</item>
+        <item>Brazil</item>
+        <item>England</item>
+        <item>Ukraine</item>
+        <item>Poland</item>
+        <item>Germany</item>
+        <item>Japan</item>
+        <item>Spanish</item>
+        <item>Chez</item>
+        <item>Moldova</item>
+        <item>Greek</item>
+        <item>Turkey</item>
+        <item>USA</item>
+        <item>Brazil</item>
+    </string-array>
+</resources>
